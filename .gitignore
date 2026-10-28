@@ -1,0 +1,21 @@
+# Block participant/raw data by default
+**/00_raw/**
+**/raw/**
+**/dicom/**
+**/DICOM/**
+**/subjects/**
+**/participant*/**
+**/AKZ*/**
+
+# Block imaging files by default; force-add only verified group-level release files
+*.nii
+*.nii.gz
+*.mgz
+*.mgh
+
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.log
