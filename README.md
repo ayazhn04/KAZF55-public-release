@@ -57,4 +57,4 @@ Nazarbayev University
 `srinivasa.bolla@nu.edu.kz`
 
 ## License
-CC BY 4.0 has been proposed for the public atlas release, but the final license should be added only after author/PI approval.
+CC BY-NC 4.0
